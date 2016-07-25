@@ -1,0 +1,5 @@
+Graphical Button clicks fires ActionEvent
+
+Mouse click fires MouseEvent
+
+Physical button press fires KeyEvent
