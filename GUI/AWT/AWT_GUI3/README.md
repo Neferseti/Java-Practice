@@ -1,0 +1,1 @@
+This code makes a simple counter GUI, with Addition and Subtraction feature. Also it has implemented a method to close the window.
