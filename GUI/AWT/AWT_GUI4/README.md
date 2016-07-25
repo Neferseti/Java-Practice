@@ -1,0 +1,1 @@
+In this, I am implementing a MouseListener which , when clicked at any location on the screen would return its X and Y coordinates, and display it on a simple GUI.
