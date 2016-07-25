@@ -1,0 +1,2 @@
+I tried to make a simple AWT counter GUI. This code is not working properly, reason being my less knowledge of Event Handling. 
+I made an ActionListener into a separate file, just for experimentation, and it turned that the flow of value is not proper. It is not that the approach is wrong. The approach might be correct, but my less experience with Event Handling is causing this problem. This approach will be tried later. Refer next directory, to see the working code with different approach. 
