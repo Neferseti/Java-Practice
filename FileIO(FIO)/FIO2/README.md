@@ -1,0 +1,3 @@
+This program utilised Scanner class streamed by the character stream generated through InputStreamReader. It is an efficient way than just using InputStreamReader. 
+To write to a file, PrintWriter class has been used, instead of OutputStreamWriter, since it makes it much easy to write a string to a file than the other aforementioned method.
+It is imperative to close the stream when they are of no more use, otherwise, as in case of PrintWriter, nothing will be printed to the file. 
