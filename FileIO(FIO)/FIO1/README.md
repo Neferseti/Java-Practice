@@ -1,0 +1,2 @@
+This code is for reading inputs from a file using FileInputStream class. FileInputStream converts a byte stream into a char stream. This is not an efficient way of reading the inouts, reason being its limitation of reading one char at a time. The read() method reads the current char, even spaces and newlines, and returns its ASCII value. If EOF file is reached, read() return -1. 
+read() is the abstract method of the abstract class InputStream, which FileInputStream (and InputStreamReader as well), inherits.
