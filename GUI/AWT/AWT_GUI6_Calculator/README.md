@@ -1,0 +1,1 @@
+This code is for making a simple calculator application. This app has too many bugs. Its functionality needs to be checked again. It might throw an error in between.
